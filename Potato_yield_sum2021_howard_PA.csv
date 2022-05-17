@@ -1,0 +1,61 @@
+﻿Rep #,TRT,Plant #,Weight ,Harvest Date ,Observations 
+1,control ,2,2.33,7/27/21,Blue var 
+2,control ,2,2.2,7/27/21,Red var 
+3,control ,2,1.4,7/27/21,Blue var 
+4,control ,2,1.13,7/27/21,Blue var 
+5,control ,2,0.8,7/27/21,Blue var 
+6,control ,2,1.93,7/27/21,Red var 
+7,control ,2,2.2,7/27/21,Red var 
+8,control ,2,2.53,7/27/21,Red var 
+9,control ,2,1.73,8/9/21,Lehigh yellow var
+10,control ,2,2.73,8/9/21,Lehigh yellow var
+11,control ,2,1.93,8/9/21,Yellow var
+12,control ,2,2.93,8/9/21,Yellow var
+13,control ,2,1.73,8/9/21,Yellow var
+14,control ,2,3.13,8/9/21,Yellow var
+15,control ,2,3.33,8/9/21,Yellow var
+16,control ,2,1.73,8/9/21,Yellow var
+17,control ,2,2.33,8/9/21,Yellow var
+18,control ,2,2.33,8/9/21,Yellow var
+19,control ,2,3.53,8/9/21,Yellow var
+20,control ,2,2.33,8/9/21,Yellow var
+21,control ,2,0.73,8/9/21,Red var 
+22,control ,2,1.33,8/9/21,Yellow var
+23,control ,2,1.33,8/9/21,Red var 
+24,control ,2,0.93,8/9/21,Fingerless var
+25,control ,2,1.13,8/9/21,Red var 
+26,control ,2,1.13,8/9/21,Red var 
+27,control ,2,1.33,8/9/21,Fingerless var
+28,control ,2,1.53,8/9/21,Yellow var
+29,control ,2,0.33,8/9/21,Purple var
+30,control ,2,1.33,8/9/21,Fingerless var
+31,sbpherom,2,2.13,8/9/21,Yellow var
+32,sbpherom,2,1.53,8/9/21,Fingerless var
+33,sbpherom,2,2.93,8/9/21,white var
+34,sbpherom,2,1.33,8/9/21,white var
+35,sbpherom,2,2.53,8/9/21,Yellow var
+36,sbpherom,2,2.73,8/9/21,Purple var
+37,sbpherom,2,0.93,8/9/21,Red var 
+38,sbpherom,2,3.13,8/9/21,Yellow var
+39,sbpherom,2,2.33,8/9/21,Yellow var
+40,sbpherom,2,1.93,8/9/21,Red var 
+41,sbpherom,2,0.73,8/9/21,Yellow var
+42,sbpherom,2,1.13,8/9/21,Fingerless var
+43,sbpherom,2,2.93,8/9/21,Yellow var
+44,sbpherom,2,2.93,8/9/21,Yellow var
+45,sbpherom,2,2.13,8/9/21,Yellow var
+46,sbpherom,2,2.33,8/9/21,white var
+47,sbpherom,2,1.33,8/9/21,Red var 
+48,sbpherom,2,1.93,8/9/21,Yellow var
+49,sbpherom,2,3,7/27/21,Red var 
+50,sbpherom,2,1.33,8/9/21,Yellow var
+51,sbpherom,2,2.2,7/27/21,Red var 
+52,sbpherom,2,1.93,8/9/21,Yellow var
+53,sbpherom,2,1.73,8/9/21,Yellow var
+54,sbpherom,2,2.6,7/27/21,Blue var 
+55,sbpherom,2,1.93,7/27/21,Blue var 
+56,sbpherom,2,2.93,7/27/21,Blue var 
+57,sbpherom,2,1,7/27/21,Blue var 
+58,sbpherom,2,2,7/27/21,Red var 
+59,sbpherom,2,2,7/27/21,Blue var 
+60,sbpherom,2,2.4,7/27/21,Blue var 
